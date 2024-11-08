@@ -14,7 +14,7 @@ const Login = () => {
                     <div className="container  p-4">
                         <div>
                             <img className="m-auto pb-6" src={logo} style={{height: "100px"}} />
-                            <h2 className="text-2xl font-semibold pb-7 text-green-500 "> پنل مدیریت</h2>
+                            <h2 className="text-2xl font-semibold pb-7 text-blue-500 "> پنل مدیریت</h2>
                             <p className="pb-3">
                             جهت ورود لازم است از طریق موبایل و رمز عبور خود اقدام کنید
                             </p>
